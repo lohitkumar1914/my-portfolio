@@ -237,8 +237,8 @@ section {
 }
 
 .btn-color-2:hover{
-    border:rgb(0, 0, 0) 0.1rem solid;
-    border-width: 2px; ;
+    border:rgb(255, 255, 255) 0.1rem solid;
+   
 }
 .btn-container{
     gap:1rem;
