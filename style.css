@@ -220,7 +220,7 @@ section {
 }
 
 .btn-color-1:hover
-,btn-color-2:hover{
+,.btn-color-2:hover{
     cursor: pointer;
 }
 .btn-color-1
@@ -233,10 +233,12 @@ section {
 }
 .btn-color-2{
     background:none;
+    
 }
 
 .btn-color-2:hover{
-    border:rgb(255,255,255) 0.1rem solid;
+    border:rgb(0, 0, 0) 0.1rem solid;
+    border-width: 2px; ;
 }
 .btn-container{
     gap:1rem;
